@@ -6,7 +6,7 @@ The watershed is a classical algorithm used for segmentation, that is, for separ
 
 We are given an input image and the corresponding seed points for that image. Seed points are just pixel locations of a few points in each expected region of the segmentation. We start from this list of seeds and grow our regions.
 
-The end results of this model look like this: *separate paragraph*
+The end results of this model look like the image below, where the image on the left is the input and the image on the right is the output.
 ![alt text](https://github.com/a-manic/watershed-segmentation/blob/main/outputs/Result.jpg)
 
 ## References
